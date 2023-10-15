@@ -1,0 +1,186 @@
+body{
+    background: url(./assets/images/bg.jpg)no-repeat center/cover;
+    height: 2400px;
+    width: 100%;
+    overflow-x: hidden;
+    font-family: 'Raleway', sans-serif;
+
+}
+.container{
+    height: 510px;
+    width: 100%px;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    margin: 0;
+    background-color: white;
+}
+#firstpara{
+    font-size: xx-large;
+    left: 379px;
+    top: 158px;
+    position: relative;
+}
+#secondpara{
+    position: relative;
+    left: 379px;
+    top: 139px;
+}
+#antertag{
+    text-decoration: none;
+    color: white;
+    background-color: #48bfe3;
+    left: 379px;
+    top: 151px;
+    border-radius: 25px;
+    font-size: small;
+    padding: 9px;
+    position: relative;
+}
+#iphone{
+    z-index: 1;
+    height: 516px;
+    top: 66px;
+    left: 842px;
+    position: relative;
+    width: 288px;
+}
+
+.parano1{
+    color: white;
+    left: 263px;
+    position: relative;
+    top: 234px;
+}
+
+
+.one{
+    font-size: 60px;
+    left: 45px;
+    color: rgb(186, 187, 187);
+    position: relative;
+    display: inline-block;
+}
+.two{
+    font-size: x-large;
+    position: relative;
+    left: 13px;
+
+}
+
+
+
+
+#parano2{
+    color: white;
+    position: relative;
+    left: 583px;
+    top: 100px;
+}
+.four{
+    font-size: 60px;
+    position: relative;
+    display: inline-block;
+    left: 56px;
+    color: rgb(186, 187, 187);
+}
+.five{
+    font-size: x-large;
+    position: relative;
+    left: 23px;
+}
+
+
+
+
+#parano3{
+    color: white;
+    position: relative;
+    left: 901px;
+    top: -35px;
+}
+.seven{
+    font-size: 60px;
+    position: relative;
+    display: inline-block;
+    left: 49px;
+    color: rgb(186, 187, 187);
+}
+.eight{
+    font-size: x-large;
+    position: relative;
+    left: 60px;
+}
+.container2{
+    height: 500px;
+    width: 102%;
+    padding: 0;
+    position: relative;
+    right: 0px;
+    top: 206px;
+    left: -7px;
+    margin: 0;
+    background-color: white;
+}
+.lastheading{
+    font-size: xx-large;
+    top: 139px;
+    position: relative;
+}
+.lastpara{
+    top: 154px;
+    position: relative;
+}
+.lastbtn{
+    text-decoration: none;
+    color: white;
+    background-color: #48bfe3;
+    top: 192px;
+    border-radius: 25px;
+    font-size: small;
+    padding: 9px 21px;
+    position: relative;
+}
+.allfooter{
+    position: relative;
+    top: 370px;
+    font-size: xx-large;
+    color: white;
+}
+#footerpara{
+    font-size: large;
+    
+}
+#boxes{
+    display: flex;
+    color: white;
+    
+}
+#boxes p{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    top: 90px;
+    position: relative;
+}
+
+.box1{
+    border-style: dashed;
+    height: 240px;
+    font-size: large;
+    width: 296px;
+    margin: 30px 32px 14px 321px;
+}
+.box2{
+    border-style: dashed;
+    height: 240px;
+    font-size: large;
+    width: 296px;
+    margin: 30px 32px 14px -1px;
+}
+.lastlast{
+    font-size: large;
+}
